@@ -13,6 +13,7 @@
     "twitter": "^1.7.1"
   },
   "devDependencies": {
+    "cli-color": "^2.0.0",
     "nodemon": "^2.0.7"
   }
 }
